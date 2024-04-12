@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DesafioMatrizQuadradaI",
+            "request": "launch",
+            "mainClass": "DesafioMatrizQuadradaI",
+            "projectName": "DesafioMatrizI_a95b6ad5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioMatrizQuadradaI",
+            "request": "launch",
+            "mainClass": "DesafioMatrizQuadradaI",
+            "projectName": "DesafioMatrizI_14499303"
+        },
+        {
+            "type": "java",
+            "name": "Launch PyToJAVA",
+            "request": "launch",
+            "mainClass": "PyToJAVA",
+            "projectName": "teste_29337e19"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioMatrizQuadradaI",
+            "request": "launch",
+            "mainClass": "DesafioMatrizQuadradaI",
+            "projectName": "teste_29337e19"
+        },
+        {
+            "type": "java",
+            "name": "Launch FuncoesMatematicas",
+            "request": "launch",
+            "mainClass": "FuncoesMatematicas",
+            "projectName": "teste_29337e19"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste2",
+            "request": "launch",
+            "mainClass": "Teste2",
+            "projectName": "teste_29337e19"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
